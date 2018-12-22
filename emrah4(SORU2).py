@@ -27,3 +27,7 @@ for i in cumle:
         unsuzharf.append(i)
 print("Ünlüler",unluharf)
 print("Ünsüzler",unsuzharf)
+if not unluharfler in unluharf:
+                harf= harf.replace('i', 'ü')
+                harf = harf.replace('ö')
+print("unluharfler",unluharf)
