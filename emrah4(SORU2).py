@@ -1,4 +1,3 @@
-def makearray (sayi):
 cumle = input("cumle gırınız :")
 print(cumle[::-1] )
 print(cumle.split(' '))
